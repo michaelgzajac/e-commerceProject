@@ -1,1 +1,1 @@
-# e-commerceProject
+# e-commerceProject for FES course.
